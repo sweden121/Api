@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "c14wWd+P235OObrK009mM5ExH6HIPW7KW0rDErRh52T1NDWZVPV8cnUYpfp+MPfyokhORACdi4PUIUKR3rFb/w==",
+  "dgSpecHash": "wNJ93NqsVn/Upyhb1A+GFspCeUhwzObH+AXxbLgjOlgrGF+DpfFXBoHgWhoUsKAdAGG6t1KFqP7aV3gAWXX0+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\programering\\wargame\\null\\properties\\null\\raylib2022\\null\\arv\\null\\arv2\\null\\Api\\Api\\Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mesquitabohm.adrian\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
